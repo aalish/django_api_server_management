@@ -3,3 +3,4 @@ db.sqlite3
 executor-env/
 __pycache__/
 Sonarqube.pem:Zone.Identifier
+executor/Sonarqube.pem:Zone.Identifier
